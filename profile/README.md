@@ -10,6 +10,11 @@ We are WiscWebGroup, a team located in Madison, Wisconsin. We mainly develop int
 ### App Under Development
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=photoly)](https://github.com/WiscWebGroup/photoly)
 
+
+![WiscWeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiscWebGroup&hide=stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiscWebGroup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 **Here are some ideas to get you started:**
