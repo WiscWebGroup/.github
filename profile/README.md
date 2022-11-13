@@ -8,7 +8,8 @@ We are WiscWebGroup, a team located in Madison, Wisconsin. We mainly develop int
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=echoq)](https://github.com/WiscWebGroup/echoq)
 
 ### App Under Development
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=photoly)](https://github.com/WiscWebGroup/photoly)
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=photoly)](https://github.com/WiscWebGroup/photoly)<br/>
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=strayway)](https://github.com/WiscWebGroup/strayway)
 
 <!--
 
