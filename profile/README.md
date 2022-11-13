@@ -4,6 +4,8 @@ We are WiscWebGroup, a team located in Madison, Wisconsin. We mainly develop int
 
 我们是麦迪逊Web开发小队，欢迎光临！
 
+私たちはWiscWebGroupです。ようこそ!
+
 ### App Developed
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=WiscWebGroup&repo=echoq)](https://github.com/WiscWebGroup/echoq)
 
